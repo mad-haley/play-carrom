@@ -1,0 +1,296 @@
+﻿Order ID,Order Status,Order Substatus,Cancelation/Return Type,Normal or Pre-order,SKU ID,Seller SKU,Product Name,Variation,Quantity,Sku Quantity of return,SKU Unit Original Price,SKU Subtotal Before Discount,SKU Platform Discount,SKU Seller Discount,SKU Subtotal After Discount,Shipping Fee After Discount,Original Shipping Fee,Shipping Fee Seller Discount,Co-Funded Shipping Fee Discount,Shipping Fee Platform Discount,Payment platform discount,Retail Delivery Fee,Taxes,Order Amount,Order Refund Amount,Created Time,Paid Time,RTS Time,Shipped Time,Delivered Time,Cancelled Time,Cancel By,Cancel Reason,Fulfillment Type,Warehouse Name,Tracking ID,Delivery Option Type,Delivery Option,Shipping Provider Name,Buyer Message,Buyer Username,Recipient,Phone #,Country,State,City,Zipcode,Address Line 1,Address Line 2,Delivery Instruction,Payment Method,Weight(kg),Product Category,Package ID,Seller Note,Shipping Information,Combined Listing
+577005674302050400	,To ship,Awaiting shipment,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,10,0,0,,0,8.44,143.44,,06/11/2025 12:44:02 PM	,06/11/2025 12:44:05 PM	,"	","	","	","	",,,Fulfillment by seller,U.S Pickup Warehouse,,Seller Shipping,Standard Shipping,,,deifs6,Deirdre Morris ,(+1)5085640981,United States,Massachusetts,Edgartown,02539	,24 Leahs Lane ,,,ApplePay,6.804,Board Games,1154288200858636384	,,"Deirdre Morris 
+(+1)5085640981
+Edgartown, Massachusetts
+02539
+United States",
+577002680860840813	,Shipped,In transit,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,10,0,0,,0,12.28,147.28,,06/08/2025 5:13:35 AM	,06/08/2025 5:13:39 AM	,06/09/2025 9:01:12 PM	,06/10/2025 3:45:56 PM	,"	","	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170331848298,Seller Shipping,Standard Shipping,,,stegnation10,Jeff Stegner,(+1)8162147829,United States,Missouri,Belton,64012	,4410 E 184th Ter,,,PayPal,6.804,Board Games,1154275566223725421	,,"Jeff Stegner
+(+1)8162147829
+Belton, Missouri
+64012
+United States",
+576997557003588347	,Shipped,In transit,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,10,0,0,,0,11.15,146.15,,06/02/2025 6:51:01 PM	,06/02/2025 6:51:04 PM	,06/03/2025 12:03:21 PM	,06/04/2025 4:44:08 PM	,"	","	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170301129264,Seller Shipping,Standard Shipping,,,romand24123,Willibaldo Ojeda,(+1)7875040475,United States,Texas,San Angelo,76904	,4757 Shadow Creek Dr,,,ApplePay,6.804,Board Games,1154255847418860283	,,"Willibaldo Ojeda
+(+1)7875040475
+San Angelo, Texas
+76904
+United States",
+576994303766270002	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,10,0,125,0,10,10,0,0,,0,10.94,135.94,,05/30/2025 6:13:36 AM	,05/30/2025 6:13:39 AM	,05/30/2025 3:13:30 PM	,05/30/2025 4:34:44 PM	,06/03/2025 3:52:36 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170329891058,Seller Shipping,Standard Shipping,,,meenal891994,Meenal Patel,(+1)7074994623,United States,California,McKinleyville,95519	,1710 Hannah Ct,,Front door,ApplePay,6.804,Board Games,1154243766599389234	,,"Meenal Patel
+(+1)7074994623
+McKinleyville, California
+95519
+United States",
+576993677092295393	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,12.16,147.16,,05/29/2025 1:38:35 PM	,05/29/2025 1:38:38 PM	,05/30/2025 3:08:04 PM	,05/30/2025 4:34:44 PM	,06/03/2025 12:15:24 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170302884213,Seller Shipping,Standard Shipping,,,sandeepm_,Sandeep Minhas,(+1)6503131866,United States,California,Manteca,95337	,3793 Vernazza Ct,,,ApplePay,6.804,Board Games,1154241562757010145	,,"Sandeep Minhas
+(+1)6503131866
+Manteca, California
+95337
+United States",
+576993423718781449	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.58,143.58,,05/29/2025 7:52:12 AM	,05/29/2025 7:52:15 AM	,05/29/2025 9:33:28 AM	,05/30/2025 6:15:40 PM	,06/03/2025 5:58:03 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170321196832,Seller Shipping,Standard Shipping,,,sclark31,Sean Clark,(+1)4355037388,United States,Utah,Roosevelt,84066	,330 N 850 W,,,Credit/debit card,6.804,Board Games,1154240428740350473	,,"Sean Clark
+(+1)4355037388
+Roosevelt, Utah
+84066
+United States",
+576992989432222692	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.62,146.62,,05/28/2025 6:31:47 PM	,05/28/2025 6:31:51 PM	,05/29/2025 9:29:54 AM	,05/30/2025 4:34:44 PM	,06/04/2025 2:24:24 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170328484820,Seller Shipping,Standard Shipping,,,maynardd11,Daniel Allen,(+1)6027173609,United States,Arizona,Phoenix,85021	,1007 West Orangewood Avenue,,,PayPal,6.804,Board Games,1154238792266060772	,,"Daniel Allen
+(+1)6027173609
+Phoenix, Arizona
+85021
+United States",
+576991734751138262	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,9.79,144.79,,05/27/2025 9:50:04 AM	,05/27/2025 9:50:22 AM	,05/27/2025 10:46:26 AM	,05/28/2025 6:44:13 PM	,05/30/2025 9:26:52 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170314641202,Seller Shipping,Standard Shipping,,,nancylsappenfield,Nancy Sappenfield,(+1)6144997146,United States,California,Granite Bay,95746	,5845 Granite Lake Drive,,,PayPal,6.804,Board Games,1154233274814075350	,,"Nancy Sappenfield
+(+1)6144997146
+Granite Bay, California
+95746
+United States",
+576991296030478859	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,7.43,142.43,,05/26/2025 7:32:05 PM	,05/26/2025 7:32:10 PM	,05/27/2025 10:46:09 AM	,05/28/2025 6:42:16 PM	,06/03/2025 8:56:15 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170314600194,Seller Shipping,Standard Shipping,,,michaelgarden189,Michael Garden,(+1)6512464270,United States,Wisconsin,Hudson,54016	,519 Elizabeth Way,,,Venmo,6.804,Board Games,1154231248361263627	,,"Michael Garden
+(+1)6512464270
+Hudson, Wisconsin
+54016
+United States",
+576991059857674809	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.31,146.31,,05/26/2025 3:40:51 PM	,05/26/2025 3:40:54 PM	,05/27/2025 10:35:03 AM	,05/28/2025 6:34:21 PM	,05/31/2025 2:12:58 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170325108214,Seller Shipping,Standard Shipping,,,paultran408,Anh Hao Tran,(+1)4084094083,United States,Nevada,Las Vegas,89135	,99 Hawk Ridge Dr,,Front door,ApplePay,6.804,Board Games,1154230700315218489	,,"Anh Hao Tran
+(+1)4084094083
+Las Vegas, Nevada
+89135
+United States",
+576990708183503567	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.99,146.99,,05/26/2025 8:55:58 AM	,05/26/2025 8:56:01 AM	,05/27/2025 10:33:00 AM	,05/28/2025 6:41:11 PM	,06/03/2025 7:52:00 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170302361180,Seller Shipping,Standard Shipping,,,tim.dobrova,Tim Dobrova,(+1)9174025202,United States,New York,Staten Island,10309	,245 Bricktown Way Ste I,,,ApplePay,6.804,Board Games,1154229706319041231	,,"Tim Dobrova
+(+1)9174025202
+Staten Island, New York
+10309
+United States",
+576990062748013530	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,10,10,0,0,0,,0,13.84,158.84,,05/25/2025 3:30:41 PM	,05/25/2025 3:30:45 PM	,05/27/2025 10:32:26 AM	,05/28/2025 6:35:53 PM	,05/30/2025 12:11:16 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170328537193,Seller Shipping,Standard Shipping,,,rubyelf1,Ekta chopra ,(+1)9492787925,United States,California,Dublin,94568	,7175 Kylemore Ct,,,ApplePay,6.804,Board Games,1154227679332570074	,,"Ekta chopra 
+(+1)9492787925
+Dublin, California
+94568
+United States",
+576989198909083786	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,13.17,148.17,,05/24/2025 5:09:39 PM	,05/24/2025 5:09:42 PM	,05/27/2025 10:33:29 AM	,05/28/2025 6:35:54 PM	,05/31/2025 4:32:51 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170308456157,Seller Shipping,Standard Shipping,,,drpimplepopper,Sandra Rebish,(+1)9099693696,United States,California,Los Angeles,90049	,12252 Dorothy St,,On other side of gate,ApplePay,6.804,Board Games,1154225425548677258	,,"Sandra Rebish
+(+1)9099693696
+Los Angeles, California
+90049
+United States",
+576988552872825724	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,10,0,125,0,10,0,10,0,,0,11.56,136.56,,05/23/2025 11:59:32 PM	,05/23/2025 11:59:35 PM	,05/27/2025 10:32:00 AM	,05/28/2025 6:32:08 PM	,05/30/2025 12:17:30 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170319689162,Seller Shipping,Standard Shipping,,,cassssgirljhay,Jessica Castillanos,(+1)6264224750,United States,California,Novato,94947	,26 Taft Ct,,,ApplePay,6.804,Board Games,1154223062557561724	,,"Jessica Castillanos
+(+1)6264224750
+Novato, California
+94947
+United States",
+576988275112645194	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,10,0,125,0,10,0,10,0,,0,7.5,132.5,,05/23/2025 5:48:53 PM	,05/23/2025 5:48:56 PM	,05/27/2025 10:31:42 AM	,05/28/2025 6:39:58 PM	,06/04/2025 10:19:22 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170317524173,Seller Shipping,Standard Shipping,,,forgivenjohn316,Jonathan Antunes,(+1)2406782936,United States,Maryland,Gaithersburg,20877	,584 PELICAN AVE,,,ApplePay,6.804,Board Games,1154222236560298570	,,"Jonathan Antunes
+(+1)2406782936
+Gaithersburg, Maryland
+20877
+United States",
+576986175351853626	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,9.45,144.45,,05/21/2025 2:19:02 PM	,05/21/2025 2:19:05 PM	,05/22/2025 10:20:39 AM	,05/22/2025 4:33:30 PM	,05/29/2025 11:37:08 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170310369121,Seller Shipping,Standard Shipping,,,bluemoon91585,Shreyas Mistry,(+1)4045202234,United States,Florida,Sarasota,34243	,5663 N HONORE AVE,,Front door,ApplePay,6.804,Board Games,1154214385683239482	,,"Shreyas Mistry
+(+1)4045202234
+Sarasota, Florida
+34243
+United States",
+576984922070291102	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.44,143.44,,05/20/2025 4:18:14 AM	,05/20/2025 4:18:17 AM	,05/20/2025 2:00:33 PM	,05/20/2025 5:15:39 PM	,05/27/2025 1:28:13 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170317321105,Seller Shipping,Standard Shipping,,,michaelbr8,Michael Brait,(+1)3392221969,United States,Massachusetts,Walpole,02081	,3 Palmer Ave,,,PayPal,6.804,Board Games,1154209415338758814	,,"Michael Brait
+(+1)3392221969
+Walpole, Massachusetts
+02081
+United States",
+576982330826527529	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,10,10,0,0,0,,0,12.52,157.52,,05/17/2025 6:46:33 AM	,05/17/2025 6:46:36 AM	,05/20/2025 2:00:57 PM	,05/20/2025 5:15:38 PM	,05/27/2025 10:12:11 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170308264079,Seller Shipping,Standard Shipping,,,pacotalk,Miguel Brion-Ageitos,(+1)5165678490,United States,New York,Baldwin,11510	,938 Clinton Pl Baldwin,,,ApplePay,6.804,Board Games,1154200253633565481	,,"Miguel Brion-Ageitos
+(+1)5165678490
+Baldwin, New York
+11510
+United States",
+576981616601437030	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.99,146.99,,05/16/2025 10:07:30 AM	,05/16/2025 10:07:33 AM	,05/16/2025 2:14:59 PM	,05/16/2025 5:40:28 PM	,05/22/2025 8:25:37 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170323449734,Seller Shipping,Standard Shipping,,,tubluu,Soumit Roy,(+1)6462465756,United States,New York,New York,10128	,215 E 96th St Apt 9e,,,ApplePay,6.804,Board Games,1154197593824858982	,,"Soumit Roy
+(+1)6462465756
+New York, New York
+10128
+United States",
+576976585888010953	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.1,143.1,,05/10/2025 4:37:17 AM	,05/10/2025 4:37:20 AM	,05/13/2025 9:59:04 AM	,05/13/2025 9:59:11 AM	,05/19/2025 9:10:30 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170300201007,Seller Shipping,Standard Shipping,,,denisebush2,Denise Bush Bush,(+1)3019832441,United States,Maryland,Potomac,20854	,7612 Glackens Dr,,,ApplePay,6.804,Board Games,1154178123866215113	,,"Denise Bush Bush
+(+1)3019832441
+Potomac, Maryland
+20854
+United States",
+576975487289168067	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.14,146.14,,05/08/2025 6:09:13 PM	,05/08/2025 6:09:17 PM	,05/09/2025 4:10:11 PM	,05/09/2025 7:24:56 PM	,05/15/2025 12:57:36 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170300000984,Seller Shipping,Standard Shipping,,,jasonsherman4258,Jason Sherman,(+1)5125172240,United States,Texas,Austin,78722	,1417 Fairwood Rd Bldg 1,,Front door,ApplePay,6.804,Board Games,1154173714774986947	,,"Jason Sherman
+(+1)5125172240
+Austin, Texas
+78722
+United States",
+576974074252989275	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,9.79,144.79,,05/06/2025 10:04:48 PM	,05/06/2025 10:04:51 PM	,05/08/2025 4:32:36 PM	,05/08/2025 5:33:22 PM	,05/14/2025 2:07:22 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170330227068,Seller Shipping,Standard Shipping,,,elevatedcustomhomes,Henry Kahn,(+1)8324751913,United States,Texas,Magnolia,77354	,6607 Brown Bark,,,PayPal,6.804,Board Games,1154167868734280539	,,"Henry Kahn
+(+1)8324751913
+Magnolia, Texas
+77354
+United States",
+576973921366610010	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,12.49,147.49,,05/06/2025 6:50:00 PM	,05/06/2025 6:50:03 PM	,05/08/2025 4:32:19 PM	,05/08/2025 5:33:25 PM	,05/14/2025 10:32:41 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170339640854,Seller Shipping,Standard Shipping,,,heathhaley21,Heath Haley,(+1)4233558830,United States,Tennessee,Lookout Mtn,37350	,829 N BRAGG AVE,,,ApplePay,6.804,Board Games,1154167438678134874	,,"Heath Haley
+(+1)4233558830
+Lookout Mtn, Tennessee
+37350
+United States",
+576970272599544396	,Shipped,Delivered,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0.5,10.97,146.47,,05/02/2025 11:32:45 AM	,05/02/2025 11:32:48 AM	,05/06/2025 8:34:27 AM	,05/06/2025 5:55:28 PM	,05/13/2025 3:33:00 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170319203971,Seller Shipping,Standard Shipping,,,sarahmariejenny,sarah jenny,(+1)6127876858,United States,Minnesota,Lakeville,55044	,18920 Katrine Court,,,ApplePay,6.804,Board Games,1154154226234724940	,,"sarah jenny
+(+1)6127876858
+Lakeville, Minnesota
+55044
+United States",
+576955826990387925	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,15,0,120,0,10,0,10,0,,0,6.36,126.36,,04/16/2025 3:18:45 PM	,04/16/2025 3:18:48 PM	,04/17/2025 1:40:31 PM	,04/17/2025 4:01:48 PM	,04/23/2025 10:01:04 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170323089570,Seller Shipping,Standard Shipping,,,wasbross,Wahed Saadut,(+1)4348062997,United States,Virginia,Charlottesville,22911	,1870 Amberfield,,,ApplePay,6.804,Board Games,1154102515190764245	,,"Wahed Saadut
+(+1)4348062997
+Charlottesville, Virginia
+22911
+United States",
+576953074503554029	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.47,145.47,,04/13/2025 12:29:59 PM	,04/13/2025 12:30:02 PM	,04/15/2025 10:35:09 AM	,04/15/2025 5:35:50 PM	,04/18/2025 7:19:28 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170303280908,Seller Shipping,Standard Shipping,,,what.do.you.sink,Karan Daryanani,(+1)8583365059,United States,California,San Diego,92109	,2123 BALFOUR CT,,,ApplePay,6.804,Board Games,1154091591318344685	,,"Karan Daryanani
+(+1)8583365059
+San Diego, California
+92109
+United States",
+576951657640792136	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,12.8,147.8,,04/11/2025 8:33:16 PM	,04/11/2025 8:33:20 PM	,04/15/2025 10:35:27 AM	,"	",04/25/2025 1:21:26 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326299720076,Seller Shipping,Standard Shipping,,,zhohaq,Ali Wazir,(+1)3478225045,United States,Kansas,Westwood Hills,66205	,2212 W 48th Ter,,Front door,PayPal,6.804,Board Games,1154087133890908232	,,"Ali Wazir
+(+1)3478225045
+Westwood Hills, Kansas
+66205
+United States",
+576950093678350909	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.82,146.82,,04/10/2025 7:58:24 AM	,04/10/2025 7:58:26 AM	,04/10/2025 2:18:14 PM	,04/11/2025 8:45:38 AM	,04/17/2025 11:53:05 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170333496941,Seller Shipping,Standard Shipping,,,plateinprogress,Juliana White,(+1)6312417836,United States,New York,East Hampton,11937	,156 Underwood Dr,,,ApplePay,6.804,Board Games,1154081535532634685	,,"Juliana White
+(+1)6312417836
+East Hampton, New York
+11937
+United States",
+576949863048188072	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,12.66,147.66,,04/09/2025 10:40:10 PM	,04/09/2025 10:40:13 PM	,04/10/2025 2:17:51 PM	,04/11/2025 8:45:38 AM	,04/15/2025 1:28:53 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170303299890,Seller Shipping,Standard Shipping,,,allieboballie91,Allison Hampel,(+1)6508231948,United States,California,Burlingame,94010	,524 Primrose Rd,,,ApplePay,6.804,Board Games,1154080453799940264	,,"Allison Hampel
+(+1)6508231948
+Burlingame, California
+94010
+United States",
+576948249246011995	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.14,146.14,,04/08/2025 7:58:59 AM	,04/08/2025 7:59:02 AM	,04/08/2025 10:37:15 AM	,04/08/2025 1:32:16 PM	,04/16/2025 10:48:55 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326296621758,Seller Shipping,Standard Shipping,,,dreid82,Colt Reid Reid,(+1)8017102126,United States,Utah,Salt Lake Cty,84111	,89 E 200 S Unit 3008,,,ApplePay,6.804,Board Games,1154074837615415899	,,"Colt Reid Reid
+(+1)8017102126
+Salt Lake Cty, Utah
+84111
+United States",
+576946406239408746	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,2.36,0,132.64,0,10,0,10,0,,0,11.78,144.42,,04/06/2025 8:27:57 AM	,04/06/2025 8:28:01 AM	,04/07/2025 4:46:49 PM	,04/08/2025 8:17:05 PM	,04/14/2025 7:28:26 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170319120882,Seller Shipping,Standard Shipping,,,justice_tan,Tanweer Ansari,(+1)9178055131,United States,New York,Queens Vlg,11427	,21561 Spencer Ave,,,ApplePay,6.804,Board Games,1154067797422740074	,,"Tanweer Ansari
+(+1)9178055131
+Queens Vlg, New York
+11427
+United States",
+576946142072640290	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.99,146.99,,04/05/2025 9:44:07 PM	,04/05/2025 9:44:09 PM	,04/07/2025 4:46:26 PM	,04/08/2025 8:17:05 PM	,04/14/2025 2:35:10 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170325375533,Seller Shipping,Standard Shipping,,,sweetasgreenapples,Annie Heiss,(+1)2623094100,United States,New York,New York,10282	,211 N End Ave Apt 8j,,,ApplePay,6.804,Board Games,1154066918098637602	,,"Annie Heiss
+(+1)2623094100
+New York, New York
+10282
+United States",
+576945767936921670	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.15,146.15,,04/05/2025 2:30:44 PM	,04/05/2025 2:30:47 PM	,04/07/2025 4:46:05 PM	,04/08/2025 8:16:55 PM	,04/14/2025 11:20:56 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170310343872,Seller Shipping,Standard Shipping,,,ruanape666,Jeff Hicks,(+1)4108045823,United States,Texas,Helotes,78023	,9403 Amber Dawn,,,ApplePay,6.804,Board Games,1154066056328941638	,,"Jeff Hicks
+(+1)4108045823
+Helotes, Texas
+78023
+United States",
+576944923347096339	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.47,145.47,,04/04/2025 4:46:05 PM	,04/04/2025 4:46:09 PM	,04/07/2025 4:45:49 PM	,04/08/2025 7:58:57 PM	,04/11/2025 3:11:37 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170316568860,Seller Shipping,Standard Shipping,,,anilgowda877,Anil Shivarudraiah,(+1)312*****44,United States,California,Mtn House,95391	,241 W Recreo Way,,,ApplePay,6.804,Board Games,1154063233708561171	,,"Anil Shivarudraiah
+(+1)312*****44
+Mtn House, California
+95391
+United States",
+576944877773558440	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.47,145.47,,04/04/2025 3:51:28 PM	,04/04/2025 3:51:30 PM	,04/07/2025 4:45:33 PM	,04/08/2025 7:58:55 PM	,04/11/2025 12:00:04 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170326665521,Seller Shipping,Standard Shipping,,,user53807493882875,Steve Altman,(+1)619*****28,United States,California,La Jolla,92037	,9696 La Jolla Farms Rd,,Front door,ApplePay,6.804,Board Games,1154063099725845160	,,"Steve Altman
+(+1)619*****28
+La Jolla, California
+92037
+United States",
+576944876343890023	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.44,143.44,,04/04/2025 3:47:15 PM	,04/04/2025 3:47:18 PM	,04/07/2025 4:45:10 PM	,04/08/2025 8:16:56 PM	,04/15/2025 12:39:30 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170317395858,Seller Shipping,Standard Shipping,,,firasr123,Firas Raouf,(+1)6175104724,United States,Massachusetts,Waban,02468	,53 Helene Rd,,,ApplePay,6.804,Board Games,1154063092390858855	,,"Firas Raouf
+(+1)6175104724
+Waban, Massachusetts
+02468
+United States",
+576944651280880439	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.14,146.14,,04/04/2025 10:52:37 AM	,04/04/2025 10:52:58 AM	,04/07/2025 4:44:49 PM	,04/08/2025 8:15:02 PM	,04/14/2025 9:46:53 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170312424843,Seller Shipping,Standard Shipping,,,ripdobie,Trent Angelle,(+1)7138824565,United States,Texas,Katy,77493	,6119 A St,,,PayPal,6.804,Board Games,1154062248184746807	,,"Trent Angelle
+(+1)7138824565
+Katy, Texas
+77493
+United States",
+576944116942541322	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.8,145.8,,04/03/2025 7:13:12 PM	,04/03/2025 7:13:15 PM	,04/04/2025 4:23:07 PM	,04/04/2025 4:50:17 PM	,04/10/2025 3:42:14 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170337095706,Seller Shipping,Standard Shipping,,,taprootfieldsfarmer,Joshua Allyn,(+1)720*****09,United States,New York,Skaneateles,13152	,4272 Jordan Rd,,,ApplePay,6.804,Board Games,1154060085052412426	,,"Joshua Allyn
+(+1)720*****09
+Skaneateles, New York
+13152
+United States",
+576943949130272813	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.1,143.1,,04/03/2025 4:19:29 PM	,04/03/2025 4:19:32 PM	,04/04/2025 4:22:38 PM	,04/04/2025 4:55:36 PM	,04/10/2025 11:41:06 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170326210913,Seller Shipping,Standard Shipping,,,kamaldesor273,Kamal Desor,(+1)864*****60,United States,South Carolina,Greenville,29611	,207 Sandra Ave,,,ApplePay,6.804,Board Games,1154059654972346413	,,"Kamal Desor
+(+1)864*****60
+Greenville, South Carolina
+29611
+United States",
+576943612012303230	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.47,145.47,,04/03/2025 9:00:06 AM	,04/03/2025 9:00:10 AM	,04/03/2025 3:37:45 PM	,04/04/2025 4:50:51 PM	,04/09/2025 2:14:47 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170318723812,Seller Shipping,Standard Shipping,,,mtktkc,Anuar Akhmejanov,(+1)619*****51,United States,California,San Diego,92131	,15724 Montbury Place,,,PayPal,6.804,Board Games,1154058348239557502	,,"Anuar Akhmejanov
+(+1)619*****51
+San Diego, California
+92131
+United States",
+576940027551912113	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,13,148,,03/30/2025 7:15:07 PM	,03/30/2025 7:15:37 PM	,03/31/2025 1:02:02 PM	,04/01/2025 4:35:20 PM	,04/03/2025 3:00:15 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170306560805,Seller Shipping,Standard Shipping,,,erwinito1,Erwin Estigarribia,(+1)510*****06,United States,California,San Mateo,94401	,722 N Idaho St,,,ApplePay,6.804,Board Games,1154045126208622769	,,"Erwin Estigarribia
+(+1)510*****06
+San Mateo, California
+94401
+United States",
+576935872824184832	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.14,146.14,,03/27/2025 4:27:10 PM	,03/27/2025 4:27:13 PM	,03/28/2025 1:13:18 PM	,03/28/2025 4:20:19 PM	,04/03/2025 2:42:55 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170306599793,Seller Shipping,Standard Shipping,,,user683760022,Therese Runnels,(+1)713*****04,United States,Texas,Houston,77056	,10 Woodway Oaks Lane,,,ApplePay,6.804,Board Games,1154034706277109760	,,"Therese Runnels
+(+1)713*****04
+Houston, Texas
+77056
+United States",
+576934693416570988	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.15,146.15,,03/26/2025 6:48:25 PM	,03/26/2025 6:48:28 PM	,03/27/2025 2:10:12 PM	,03/28/2025 4:20:19 PM	,04/03/2025 5:52:24 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170318440789,Seller Shipping,Standard Shipping,,,usafcphillips6,Christopher A. Phillips,(+1)406*****65,United States,Texas,Bulverde,78163	,1412 Gifford Park,,,ApplePay,6.804,Board Games,1154031156767461484	,,"Christopher A. Phillips
+(+1)406*****65
+Bulverde, Texas
+78163
+United States",
+576934481159753874	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.99,146.99,,03/26/2025 4:11:18 PM	,03/26/2025 4:11:22 PM	,03/27/2025 2:10:32 PM	,03/28/2025 4:15:57 PM	,04/03/2025 3:45:48 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170332819488,Seller Shipping,Standard Shipping,,,sethjacobphillips,Seth Phillips,(+1)325*****13,United States,New York,New York,10003	,75 1st Ave Apt 6d,,,Credit/debit card,6.804,Board Games,1154030720555585682	,,"Seth Phillips
+(+1)325*****13
+New York, New York
+10003
+United States",
+576931999056499254	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0.5,10.97,146.47,,03/24/2025 7:42:00 PM	,03/24/2025 7:42:03 PM	,03/25/2025 12:08:08 PM	,03/30/2025 3:21:56 AM	,04/03/2025 4:09:34 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326290291735,Seller Shipping,Standard Shipping,,,balsamlake,Dan Nichols,(+1)952*****35,United States,Minnesota,Apple Valley,55124	,13608 Duluth Dr,,,ApplePay,6.804,Board Games,1154024003401191990	,,"Dan Nichols
+(+1)952*****35
+Apple Valley, Minnesota
+55124
+United States",
+576931079680856250	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.78,143.78,,03/24/2025 5:20:44 AM	,03/24/2025 5:20:47 AM	,03/24/2025 4:25:18 PM	,03/25/2025 9:47:25 PM	,04/01/2025 11:17:41 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170314928724,Seller Shipping,Standard Shipping,,,chrishelfrich427,Chris Helfrich,(+1)513*****66,United States,Florida,Orlando,32804	,1025 W Harvard St Fl 32804,,,ApplePay,6.804,Board Games,1154021061666443450	,,"Chris Helfrich
+(+1)513*****66
+Orlando, Florida
+32804
+United States",
+576930465665028240	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.57,143.57,,03/23/2025 4:09:48 PM	,03/23/2025 4:09:52 PM	,03/24/2025 4:25:01 PM	,03/25/2025 9:46:40 PM	,04/03/2025 2:54:20 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170318183718,Seller Shipping,Standard Shipping,,,jfww1111,John Woods,(+1)703*****33,United States,Connecticut,Greenwich,06830	,498 Lake Ave,,,ApplePay,6.804,Board Games,1154019366111973520	,,"John Woods
+(+1)703*****33
+Greenwich, Connecticut
+06830
+United States",
+576929231480721951	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.7,143.7,,03/22/2025 4:08:50 PM	,03/22/2025 4:08:53 PM	,03/24/2025 4:24:38 PM	,03/25/2025 9:46:42 PM	,03/31/2025 2:12:40 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170310040707,Seller Shipping,Standard Shipping,,,jr.jeremy.robinso,Jeremy Robinson,(+1)770*****02,United States,Georgia,Smyrna,30080	,1165 Laurel Pl Se,,,ApplePay,6.804,Board Games,1154016682675180063	,,"Jeremy Robinson
+(+1)770*****02
+Smyrna, Georgia
+30080
+United States",
+576927021743051633	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.15,146.15,,03/20/2025 8:13:01 PM	,03/20/2025 8:13:04 PM	,03/21/2025 11:09:42 AM	,03/21/2025 3:02:36 PM	,03/28/2025 11:07:11 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326288565893,Seller Shipping,Standard Shipping,,,robertsalaburu,robertsalaburu Salaburu,(+1)210*****19,United States,Texas,San Antonio,78209	,810 GARRATY HL,,,ApplePay,6.804,Board Games,1154010155538748273	,,"robertsalaburu Salaburu
+(+1)210*****19
+San Antonio, Texas
+78209
+United States",
+576922600417956474	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,10,10,0,0,0,,0,14.15,159.15,,03/17/2025 5:36:30 AM	,03/17/2025 5:36:33 AM	,03/17/2025 4:04:20 PM	,03/28/2025 4:58:57 AM	,03/31/2025 10:08:00 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326286667230,Seller Shipping,Standard Shipping,,,goodbeerhunting,Michael Kiser,(+1)773*****09,United States,Illinois,Glenview,60025	,633 Echo Ln,,,ApplePay,6.804,Board Games,1153996550138008186	,,"Michael Kiser
+(+1)773*****09
+Glenview, Illinois
+60025
+United States",
+576922052453962485	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,8.44,143.44,,03/16/2025 5:25:46 PM	,03/16/2025 5:25:48 PM	,03/17/2025 4:03:49 PM	,03/17/2025 4:03:56 PM	,03/24/2025 8:05:59 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170338626470,Seller Shipping,Standard Shipping,,,jasonrmiller0,Jason Miller,(+1)781*****55,United States,Massachusetts,Stoneham,02180	,3 Drury Lane,,,ApplePay,6.804,Board Games,1153995068869284597	,,"Jason Miller
+(+1)781*****55
+Stoneham, Massachusetts
+02180
+United States",
+576921936507539705	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,10,0,125,0,10,0,10,0,,0,11.87,136.87,,03/16/2025 3:51:31 PM	,03/16/2025 3:51:34 PM	,03/17/2025 4:03:25 PM	,03/17/2025 4:03:36 PM	,03/20/2025 2:37:30 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170317960684,Seller Shipping,Standard Shipping,,,timtamflimflam1,Timothy Charouk,(+1)617*****68,United States,California,Los Angeles,90036	,602 N MARTEL AVE,,,ApplePay,6.804,Board Games,1153994846227108089	,,"Timothy Charouk
+(+1)617*****68
+Los Angeles, California
+90036
+United States",
+576917278445507203	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,0,135,,03/12/2025 9:21:31 PM	,03/12/2025 9:22:03 PM	,03/17/2025 11:15:05 AM	,03/17/2025 3:25:26 PM	,03/19/2025 1:44:03 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170313223675,Seller Shipping,Standard Shipping,,,bigalyxx,Scott McCraw,(+1)425*****85,United States,Oregon,La Grande,97850	,62341 Evergreen Rd,,,PayPal,6.804,Board Games,1153982830728352387	,,"Scott McCraw
+(+1)425*****85
+La Grande, Oregon
+97850
+United States",
+576913270462910655	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.8,145.8,,03/09/2025 11:01:47 AM	,03/09/2025 11:01:51 AM	,03/10/2025 10:40:51 AM	,03/19/2025 12:30:46 PM	,03/24/2025 11:41:33 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326283518870,Seller Shipping,Standard Shipping,,,joev19,Joe Vranicar,(+1)630*****00,United States,Illinois,Sugar Grove,60554	,731 Woodbury Ct,,,ApplePay,6.804,Board Games,1153971269587734719	,,"Joe Vranicar
+(+1)630*****00
+Sugar Grove, Illinois
+60554
+United States",
+576908159116939495	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,11.15,146.15,,03/05/2025 5:00:06 AM	,03/05/2025 5:00:09 AM	,03/05/2025 12:43:27 PM	,03/08/2025 8:28:28 PM	,03/17/2025 12:30:33 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,9434636208326281415393,Seller Shipping,Standard Shipping,,,robertsadler51,Jamie Moore,(+1)210*****81,United States,Texas,San Antonio,78218	,5730 Rittiman Plaza,,,ApplePay,6.804,Board Games,1153957881554833639	,,"Jamie Moore
+(+1)210*****81
+San Antonio, Texas
+78218
+United States",
+576902160169669371	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM 24"" Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,12.66,147.66,,02/27/2025 11:46:13 PM	,02/27/2025 11:46:16 PM	,03/03/2025 3:13:54 PM	,03/03/2025 3:50:27 PM	,03/05/2025 3:20:55 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170321559762,Seller Shipping,Standard Shipping,,,sandhyajackson8,Sandhya Uthup,(+1)713*****32,United States,California,San Jose,95120	,1509 MONTEVAL PL,,,Credit/debit card,6.804,Board Games,1153939268033942267	,,"Sandhya Uthup
+(+1)713*****32
+San Jose, California
+95120
+United States",
+576902071665266864	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM 24"" Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,10,0,10,0,,0,10.8,145.8,,02/27/2025 9:39:29 PM	,02/27/2025 9:39:31 PM	,03/03/2025 3:14:11 PM	,03/03/2025 3:50:31 PM	,03/10/2025 9:21:15 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170321562383,Seller Shipping,Standard Shipping,,,sydneyadove,Sydney Anne Dove,(+1)334*****54,United States,Alabama,Birmingham,35226	,2533 Oneal Cir,,,ApplePay,6.804,Board Games,1153938972805599408	,,"Sydney Anne Dove
+(+1)334*****54
+Birmingham, Alabama
+35226
+United States",
+576891090412409845	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM 24"" Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,20,0,115,0,10,0,10,0,10,0,8.94,113.94,,02/18/2025 7:36:58 PM	,02/18/2025 7:37:02 PM	,02/21/2025 1:13:16 PM	,02/21/2025 3:05:39 PM	,02/27/2025 12:20:43 PM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,1ZR54B170329819323,Seller Shipping,Standard Shipping,,,bfarx,Barka Farheen,(+1)571*****99,United States,New Jersey,Jersey City,07310	,475 Washington Blvd,Apt 4401N,,Venmo,6.804,Board Games,1153908237779637237	,,"Barka Farheen
+(+1)571*****99
+Jersey City, New Jersey
+07310
+United States",
+576854966251459032	,Completed,Completed,,Normal,1730510900636128141	,,"PLAY CARROM 24"" Carrom Board with coins, striker, and powder made by Indian artisans",Default,1,0,135,135,0,0,135,0,24.39,0,24.39,0,,0,11.15,146.15,,01/15/2025 2:45:43 PM	,01/15/2025 2:45:47 PM	,01/18/2025 9:07:15 AM	,01/20/2025 3:14:57 PM	,01/25/2025 10:08:56 AM	,"	",,,Fulfillment by seller,U.S Pickup Warehouse,284509192047,TikTok Shipping,Standard shipping,,,yumtoks,Mariyum Iqbal,(+1)507*****14,United States,Texas,San Leon,77539	,2923 Flying Horse Ln,,,ApplePay,4.763,Board Games,1153810094780748248	,,"Mariyum Iqbal
+(+1)507*****14
+San Leon, Texas
+77539
+United States",
